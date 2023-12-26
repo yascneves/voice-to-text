@@ -113,3 +113,18 @@ body {
   color: #333;
   font-weight: 600;
 }
+
+.container .result p{
+  display: inline;
+  margin-left: 2%;
+  color: #a5a5a5;
+}
+
+.buttons{
+  display: flex;
+  gap: 20px;
+}
+
+.buttons .btn{
+  margin-bottom: 10px;
+}
